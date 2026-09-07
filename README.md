@@ -1,4 +1,10 @@
-# 📈 Predictive Analytics Using Historical Data
+# 📊 Predictive Analytics Using Historical Data
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)](https://predictive-analytics-using-historical-data-4pza8rr8mxah5w6h3tp.streamlit.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/atharva123-buddy/Predictive-Analytics-Using-Historical-Data)
+
+
 
 ## Sales Forecasting Using Historical Data
 
